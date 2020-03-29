@@ -13,7 +13,7 @@ Here is the problem in a few words :
 * Why Do I say that ? Because : 
   * as you can see on the above screenshot, a several years player in the blockchain industry, gives a security recomendations to all its end users. Here I think about all those guys, you know, they think they are "geeks", or "tech guys", they like to show off to people how cool that is they are being traders on blockchined money etc...
   * About this security recommandation :  Securing the password / secret key is saveing it to a hardware ????? What th f\*\*\*ing sh\*\*\*t is that ? Have they never heard about secret managers?
-  * Those guys pretend to be high tech guys, like they spawn highly secured servers, etc.. And they don' f\*\*\*king recommend their own users, (those who put their money here), to use a secret manager ? 
+  * Those guys pretend to be high tech guys, like they spawn highly secured servers, etc.. And they don' f\*\*\*king recommend their own users, (those who put their money here), to use a secret manager ? ( https://github.com/hashicorp/vault )
 
 Well , after enraging is managed, I there state this industry has a big problem, and if they don't think they have, well they will very soon.
 
