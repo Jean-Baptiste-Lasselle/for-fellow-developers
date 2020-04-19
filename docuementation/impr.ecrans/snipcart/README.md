@@ -7,3 +7,5 @@ How it works :
 * one is "secret" : the owner keeps it for himself, it gives access to all of the features of the Snipcart API : that is , youcan do just about anything on your Snipcat account, if you authenticate using this key.
 
 So those two keys are roles, in a way.
+
+![that's it](https://github.com/Jean-Baptiste-Lasselle/for-fellow-developers/raw/master/docuementation/impr.ecrans/snipcart/Firefox_Screenshot_2020-04-19T22-38-39.139Z.png)
