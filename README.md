@@ -2,7 +2,7 @@
 A repo I use to share  images and mainly screenshots with fellow engineers
 
 
-## The BOFH : The BAstard Operator From Hell
+## The BOFH : The Bastard Operator From Hell
 
 Oneof those times,I was crawling source code examples forthe well-known [`dock_auth`](https://github.com/cesanta/docker_auth), and [soon](https://github.com/cesanta/docker_auth/blob/master/examples/ext_auth.sh) I understand some variable value,`bofh`, is a possible username a user can type...
 
